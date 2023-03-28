@@ -1,9 +1,9 @@
 # Hey this is Utsav,
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=utsav3108&show_icons=true&theme=radical" />
+<!-- <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=utsav3108&show_icons=true&theme=radical" />
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav3108&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats" />
-
+ -->
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
